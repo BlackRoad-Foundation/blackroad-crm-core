@@ -1,5 +1,13 @@
 # blackroad-crm-core
 
+> BlackRoad Foundation - blackroad crm core
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Foundation](https://github.com/BlackRoad-Foundation)
+
+---
+
+# blackroad-crm-core
+
 > Production Python CRM engine — part of [BlackRoad Foundation](https://github.com/BlackRoad-Foundation).
 
 ## Features
